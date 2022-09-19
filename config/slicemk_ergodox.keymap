@@ -16,7 +16,7 @@
 				&kp LSHIFT &kp Z        &kp X        &kp C        &kp V        &kp B        &kp M_VOLD   &kp M_VOLU &kp N        &kp M        &kp CMMA     &kp DOT      &kp SLASH     &kp BACKSLASH
 				&kp LCTRL  &mo 1        &kp LWIN     &kp LALT     &kp SPC                                                        &kp SPC      &kp EQUAL    &none        &none         &none
 				                                                               &none        &kp ESC      &kp END    &kp DEL
-				                                                  &kp SPC      &kp BSPC     &none        &none      &BSPC        &kp RET
+				                                                  &kp SPC      &kp BSPC     &none        &none      &kp BSPC        &kp RET
 				                                                                            &none        &none
 			>;
 		};
